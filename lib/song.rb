@@ -15,9 +15,9 @@ class Song
   
   def artist_name
     artist.name == nil || self.artist.name
-      puts nil
-    else
-      self.artist.name
-    end
+      #puts nil
+    #else
+      #self.artist.name
+    #end
   end 
 end 
